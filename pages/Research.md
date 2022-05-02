@@ -1,4 +1,4 @@
 ---
-title: Research
+layout: default
 ---
 # Multi-Messenger Astrophysics

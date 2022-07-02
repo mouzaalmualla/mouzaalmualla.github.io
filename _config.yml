@@ -1,3 +1,44 @@
+# site settings
 title: Mouza Almualla
-description: Researcher in Astrophysics
-theme: jekyll-theme-cayman
+subtitle: PhD Student
+email: mouzaalmuallaa@gmail.com
+description: I'm an astrophysics researcher interested in <br /> computational cosmology and compact objects.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: 
+city: Dubai
+state:
+zip_code:
+country: United Arab Emirates
+phone:
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/mouzaalmualla
+  GitLab:
+  Google-Plus:
+  Instagram: https://www.instagram.com/moz.amu/?hl=en
+  LinkedIn: https://www.linkedin.com/in/mouza-almualla-8963861a5/
+  Twitter:
+  Facebook:
+  Slack:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 

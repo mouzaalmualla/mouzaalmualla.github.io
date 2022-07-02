@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: home
+title: Home
+x_talks-title: 'Hi, I&apos;m Mouza (mo-zuh)&#33;'
+description:
+image: null
+author: null
+show_tile: false
 ---
-![ ](./images/personalpic.jpeg)
-{:center: style="text-align: center"}
-# About Me
-{:center}
-### Hi! I'm an undergraduate at the American University of Sharjah double majoring in Physics and Electrical Engineering. I was born and raised in Dubai, UAE, and really enjoy exploring the cosmos both by way of code and the imagination. In the fall, I'll be starting my PhD in astrophysics at Harvard University. You can find my CV <a href="./cv/CV.pdf">here</a>.
+

@@ -51,15 +51,15 @@ Fig 2. Skymap coverage with ZTF before and after the use of the appropriate filt
 
 	<div class="4u 12u$(medium)">
 		<h4>TOY MODELS</h4>
-		<p> .</p>
+		<p>It's useful to understand the parameter space of kilonovae, and what sort of effect it can have on the lightcurves. Similarly, the neutron star equation of state, which is a pressure-density relationship that is based upon the neutron star's nuclear microphysics, encodes macroscopic properties such as its radius and maximum non-rotating stable mass, and can also have an effect on resultant lightcurves. Starting out with a simplistic toy model (take a look at 'Kilonovae', Metzger 2019), I generated heat maps that explored these dependencies and how they might affect observational prospects.</p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h4>SUPER-FAST GRID INTERPOLATION</h4>
-		<p> .</p>
+		<p>When employing radiative transfer simulations, time is of the essence. They can take days to run, and so interpolation schemes are useful to more densely sample the parameter space and thus generate a robust kilonova grid for parameter inference. I and Yuhong Ning worked on using a neural net to perform the interpolation step, reducing the model loading time from ~ 80 min down to hundreds of milliseconds.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h4>KILONOVA EJECTA GEOMETRIES</h4>
-		<p> .</p>
+		<p>The structure and composition of the kilonova ejecta is a major topic of investigation. Although we only have one confirmed kilonova detection, we can still explore the structure of the two ejecta components -- dynamical and disk wind. The density profile of the disk wind is thought to be relatively spherically symmetric, while the density profile of the dynamical ejecta is thought to have an angular dependence based on numerical relativity sims. I explored this idea by fitting our kilonova grids to GW170817 and found that the best-fit does indeed have a moderate angular dependency.</p>
 	</div>
 </div>
 

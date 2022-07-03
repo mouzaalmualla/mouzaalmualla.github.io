@@ -27,7 +27,7 @@ nav-menu: true
 				<header class="major">
 					<h3>"Optimizing Searches for Serendipitous Kilonovae by Wide-Field Surveys"</h3>
 				</header>
-				<p>GRANDMA Collaboration Seminars, July 2021</p>
+				<p>43rd COSPAR Scientific Assembly, January 2021</p>
 
                   <ul class="actions">
 				<li><a href="research.html" class="button">Learn more</a></li>

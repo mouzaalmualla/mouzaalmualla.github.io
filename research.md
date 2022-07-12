@@ -17,7 +17,7 @@ nav-menu: true
 
 <!-- Content -->
 <center> <h2 id="content">Multimessenger Astrophysics</h2> </center> 
-<p>Much of my research during my undergraduate years, working mostly with Prof. Michael Coughlin and within Prof. Mansi Kasliwal's group, revolved around investigating the merger of two neutron stars, or of one neutron star and one black hole. These events are expected to yield a variety of counterparts, including <em>Gravitational Waves</em> (GWs) and <em>kilonovae</em>. Kilonovae are optical/near-infrared counterparts powered primarily by radioactive decay. They have been found to be one of the dominant sources of heavy elements in the Universe, thanks to the detection of GW170817/AT2017gfo; in other words, our gold and platinum jewelry was likely forged from the remnants of these cosmic explosions! </p>
+<p>Much of my research during my undergraduate years, working mostly with Prof. Nidhal Guessoum, Prof. Michael Coughlin and within Prof. Mansi Kasliwal's group, revolved around investigating the merger of two neutron stars, or of one neutron star and one black hole. These events are expected to yield a variety of counterparts, including <em>Gravitational Waves</em> (GWs) and <em>kilonovae</em>. Kilonovae are optical/near-infrared counterparts powered primarily by radioactive decay. Thanks to the detection of GW170817/AT2017gfo, they have been found to be one of the dominant sources of heavy elements in the Universe; in other words, much of our gold and platinum jewelry was likely forged from the remnants of these cosmic explosions! </p>
 
 <center>  <h3> 1. Optimizing Observations of Kilonovae</h3> </center> 
 
